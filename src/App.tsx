@@ -114,13 +114,13 @@ const team = [
   {
     name: "Dr. Ananya Singh",
     role: "Orthodontist & Smile Designer",
-    image: "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=400",
+    image: "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?auto=format&fit=crop&q=80&w=400",
     specialty: "Invisalign Certified"
   },
   {
     name: "Dr. Vikram Mehta",
     role: "Pediatric Dentist",
-    image: "https://images.unsplash.com/photo-1559839734-2b71f1536783?auto=format&fit=crop&q=80&w=400",
+    image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=400",
     specialty: "Child Care Expert"
   }
 ];
@@ -314,7 +314,7 @@ export default function App() {
             >
               <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-[0_50px_100px_-20px_rgba(0,0,0,0.15)] border-[12px] border-white rotate-2 hover:rotate-0 transition-transform duration-700">
                 <img 
-                  src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=1000" 
+                  src="https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=1000" 
                   alt="Professional Dentist" 
                   className="w-full aspect-[4/5] object-cover"
                   referrerPolicy="no-referrer"
@@ -440,7 +440,7 @@ export default function App() {
             <div className="relative">
               <div className="aspect-square rounded-[3rem] overflow-hidden border-4 border-white/10 shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&q=80&w=800" 
+                  src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=800" 
                   alt="Dental Technology" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
